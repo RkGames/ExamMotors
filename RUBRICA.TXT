@@ -1,0 +1,39 @@
+Puntos que he implementado:
+
+	- Terrain
+	- Input actions 
+		-Pause
+		-RestartGame
+	- Triggers
+		-Recolectable
+		-Invertir Controles
+		-Secuencia
+	- HUD
+		-Items
+		-Vida Player (Se resta a la T)
+		-Tiempo de partida
+		-Pantalla en rojo cuando recibe daño
+	- Animaciones HUD
+		-Al recibir daño
+		-Al coger coleccionables
+	- Secuencia
+		-cámara
+		-bloquear controles player
+		-Lanza sonido
+		-Mueve elemento de la escena
+	- Restart game en el level blueprint
+	- Sonidos
+		-Cuando da un paso en la animación
+		-Sonido aleatorio entre 2 explosiones y la mezcla de ellas.
+	- IA que
+		-Empieza yendo al player
+		-Cuando lo ve se esconde
+		-Se destruye cuando el player la toca
+	- El player puede poseer a la IA con la I
+	- 3 tipos de luces y ciclo día/noche
+
+Hacks:
+	- P para pausar y reanudar el juego
+	- I para poseer a la IA
+	- T para recibir daño
+	- R para reiniciar el juego

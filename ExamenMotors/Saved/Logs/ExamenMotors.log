@@ -9508,3 +9508,456 @@ Make sure 'MyPlayerController_C' has been compiled for  Get BaseTurnRate
 [2020.03.30-16.38.34:265][382]LogContentValidation: Display: Validating BlendSpace1D /Game/Mannequin/Animations/ThirdPerson_IdleRun_2D.ThirdPerson_IdleRun_2D
 [2020.03.30-16.38.34:265][382]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
 [2020.03.30-16.38.34:265][382]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.03.30-16.40.10:065][ 25]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor2)
+[2020.03.30-16.40.39:261][471]MapCheck: New page: Map Check
+[2020.03.30-16.40.39:313][471]Cmd: MAP REBUILD ALLVISIBLE
+[2020.03.30-16.40.39:313][471]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.03.30-16.40.39:956][471]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=false
+[2020.03.30-16.40.40:072][471]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2020.03.30-16.40.40:081][471]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.30-16.40.40:101][471]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2020.03.30-16.40.40:101][471]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2020.03.30-16.40.40:101][471]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.30-16.40.40:112][471]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.30-16.40.40:124][471]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.30-16.40.40:144][471]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2020.03.30-16.40.40:144][471]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.30-16.40.40:165][471]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.30-16.40.40:186][471]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.30-16.40.40:197][471]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.30-16.40.40:210][471]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.30-16.40.40:223][471]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.30-16.40.40:235][471]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.30-16.40.42:282][471]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2020.03.30-16.40.42:282][471]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2020.03.30-16.40.42:282][471]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2020.03.30-16.40.42:282][471]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 16
+[2020.03.30-16.40.42:282][471]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2020.03.30-16.40.42:282][471]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 14
+[2020.03.30-16.40.42:282][471]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 13
+[2020.03.30-16.40.42:282][471]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2020.03.30-16.40.42:282][471]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2020.03.30-16.40.42:282][471]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2020.03.30-16.40.42:282][471]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2020.03.30-16.40.42:282][471]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2020.03.30-16.40.42:282][471]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2020.03.30-16.40.42:282][471]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2020.03.30-16.40.42:282][471]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2020.03.30-16.40.42:282][471]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2020.03.30-16.40.42:282][471]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2020.03.30-16.40.42:282][471]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2020.03.30-16.40.42:282][471]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2020.03.30-16.40.42:282][471]TextureStreamingBuild: Display: Compiling optional shaders took 2.207 seconds.
+[2020.03.30-16.40.42:386][471]LogLevel: Display: Export Material TexCoord Scales took 0.104 seconds.
+[2020.03.30-16.40.42:399][471]TextureStreamingBuild: Display: Build Texture Streaming took 0.013 seconds.
+[2020.03.30-16.40.42:449][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2020.03.30-16.40.42:486][471]LightingResults: New page: Lighting Build - 30 mar. 2020 20:40:42
+[2020.03.30-16.40.42:515][471]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2020.03.30-16.40.42:515][471]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2020.03.30-16.40.42:818][471]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.03.30-16.40.43:065][471]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.03.30-16.40.43:075][471]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.03.30-16.40.44:096][471]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.03.30-16.40.44:097][471]LogSwarmInterface: [TryOpenConnection] Local Process ID is 23944
+[2020.03.30-16.40.50:462][471]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.03.30-16.40.50:462][471]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.03.30-16.40.50:462][471]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.03.30-16.40.50:462][471]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.03.30-16.40.50:462][471]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.03.30-16.40.50:698][471]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.03.30-16.40.50:698][471]MapCheck: New page: ThirdPersonExampleMap - 30 mar. 2020 20:40:50
+[2020.03.30-16.40.50:699][471]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2020.03.30-16.40.50:699][471]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0,475ms to complete.
+[2020.03.30-16.40.50:701][471]LogEditorBuildUtils: Build time 0:11
+[2020.03.30-16.40.50:832][472]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_289, compiling. 
+[2020.03.30-16.40.50:848][472]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2020.03.30-16.40.50:849][472]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2020.03.30-16.40.50:849][472]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_289, compiling. 
+[2020.03.30-16.40.50:894][472]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2020.03.30-16.40.50:910][473]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_276, compiling. 
+[2020.03.30-16.40.50:922][473]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_276, compiling. 
+[2020.03.30-16.40.50:980][474]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_288, compiling. 
+[2020.03.30-16.40.50:993][474]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_288, compiling. 
+[2020.03.30-16.40.51:056][475]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_290, compiling. 
+[2020.03.30-16.40.51:070][475]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_290, compiling. 
+[2020.03.30-16.40.51:117][476]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_138, compiling. 
+[2020.03.30-16.40.51:129][476]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_138, compiling. 
+[2020.03.30-16.40.51:187][477]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_139, compiling. 
+[2020.03.30-16.40.51:199][477]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_139, compiling. 
+[2020.03.30-16.40.51:238][478]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_140, compiling. 
+[2020.03.30-16.40.51:250][478]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_140, compiling. 
+[2020.03.30-16.40.51:276][479]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_141, compiling. 
+[2020.03.30-16.40.51:288][479]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_141, compiling. 
+[2020.03.30-16.40.51:310][480]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_277, compiling. 
+[2020.03.30-16.40.51:323][480]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_277, compiling. 
+[2020.03.30-16.40.51:344][481]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_278, compiling. 
+[2020.03.30-16.40.51:356][481]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_278, compiling. 
+[2020.03.30-16.40.51:379][482]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_279, compiling. 
+[2020.03.30-16.40.51:391][482]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_279, compiling. 
+[2020.03.30-16.40.51:413][483]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_280, compiling. 
+[2020.03.30-16.40.51:425][483]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_280, compiling. 
+[2020.03.30-16.40.51:438][484]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 43
+[2020.03.30-16.40.51:447][484]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_220, compiling. 
+[2020.03.30-16.40.51:459][484]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_220, compiling. 
+[2020.03.30-16.40.51:481][485]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_221, compiling. 
+[2020.03.30-16.40.51:493][485]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_221, compiling. 
+[2020.03.30-16.40.51:518][486]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_148, compiling. 
+[2020.03.30-16.40.51:531][486]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 43
+[2020.03.30-16.40.51:531][486]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_148, compiling. 
+[2020.03.30-16.40.51:554][487]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_149, compiling. 
+[2020.03.30-16.40.51:566][487]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 39
+[2020.03.30-16.40.51:566][487]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_149, compiling. 
+[2020.03.30-16.40.51:607][488]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_281, compiling. 
+[2020.03.30-16.40.51:628][489]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_282, compiling. 
+[2020.03.30-16.40.51:640][489]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_282, compiling. 
+[2020.03.30-16.40.51:673][490]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_283, compiling. 
+[2020.03.30-16.40.51:686][490]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_283, compiling. 
+[2020.03.30-16.40.51:725][491]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_284, compiling. 
+[2020.03.30-16.40.51:738][491]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_284, compiling. 
+[2020.03.30-16.40.51:761][492]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_201, compiling. 
+[2020.03.30-16.40.51:775][492]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_201, compiling. 
+[2020.03.30-16.40.51:798][493]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_202, compiling. 
+[2020.03.30-16.40.51:811][493]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_202, compiling. 
+[2020.03.30-16.40.51:833][494]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_219, compiling. 
+[2020.03.30-16.40.51:846][494]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_219, compiling. 
+[2020.03.30-16.40.51:868][495]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_157, compiling. 
+[2020.03.30-16.40.51:881][495]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_157, compiling. 
+[2020.03.30-16.40.51:918][496]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_285, compiling. 
+[2020.03.30-16.40.51:943][497]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_286, compiling. 
+[2020.03.30-16.40.51:956][497]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_286, compiling. 
+[2020.03.30-16.40.51:980][498]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_287, compiling. 
+[2020.03.30-16.40.51:993][498]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_287, compiling. 
+[2020.03.30-16.40.52:014][499]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_236, compiling. 
+[2020.03.30-16.40.52:027][499]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_236, compiling. 
+[2020.03.30-16.40.52:050][500]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_229, compiling. 
+[2020.03.30-16.40.52:062][500]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_229, compiling. 
+[2020.03.30-16.40.52:083][501]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_255, compiling. 
+[2020.03.30-16.40.52:095][501]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_255, compiling. 
+[2020.03.30-16.40.52:120][502]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_254, compiling. 
+[2020.03.30-16.40.52:132][502]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_254, compiling. 
+[2020.03.30-16.40.52:154][503]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_165, compiling. 
+[2020.03.30-16.40.52:166][503]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_165, compiling. 
+[2020.03.30-16.40.52:187][504]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_166, compiling. 
+[2020.03.30-16.40.52:200][504]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_166, compiling. 
+[2020.03.30-16.40.52:226][505]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_274, compiling. 
+[2020.03.30-16.40.52:238][505]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_274, compiling. 
+[2020.03.30-16.40.52:261][506]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_275, compiling. 
+[2020.03.30-16.40.52:273][506]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_275, compiling. 
+[2020.03.30-16.40.52:294][507]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_234, compiling. 
+[2020.03.30-16.40.52:306][507]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_234, compiling. 
+[2020.03.30-16.40.52:333][508]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_235, compiling. 
+[2020.03.30-16.40.52:344][508]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_235, compiling. 
+[2020.03.30-16.40.52:367][509]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_260, compiling. 
+[2020.03.30-16.40.52:380][509]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_260, compiling. 
+[2020.03.30-16.40.52:403][510]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_241, compiling. 
+[2020.03.30-16.40.52:415][510]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_241, compiling. 
+[2020.03.30-16.40.52:452][511]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_243, compiling. 
+[2020.03.30-16.40.52:488][512]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_262, compiling. 
+[2020.03.30-16.40.52:513][513]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_263, compiling. 
+[2020.03.30-16.40.52:525][513]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_263, compiling. 
+[2020.03.30-16.40.52:561][514]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_264, compiling. 
+[2020.03.30-16.40.52:574][514]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_264, compiling. 
+[2020.03.30-16.40.52:600][515]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_265, compiling. 
+[2020.03.30-16.40.52:611][515]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_265, compiling. 
+[2020.03.30-16.40.52:634][516]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_212, compiling. 
+[2020.03.30-16.40.52:645][516]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_212, compiling. 
+[2020.03.30-16.40.52:667][517]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_245, compiling. 
+[2020.03.30-16.40.52:679][517]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_245, compiling. 
+[2020.03.30-16.40.52:701][518]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_257, compiling. 
+[2020.03.30-16.40.52:713][518]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_257, compiling. 
+[2020.03.30-16.40.52:748][519]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_247, compiling. 
+[2020.03.30-16.40.52:786][520]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_266, compiling. 
+[2020.03.30-16.40.52:824][521]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_267, compiling. 
+[2020.03.30-16.40.52:850][522]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_268, compiling. 
+[2020.03.30-16.40.52:862][522]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_268, compiling. 
+[2020.03.30-16.40.52:895][523]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_269, compiling. 
+[2020.03.30-16.40.52:907][523]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_269, compiling. 
+[2020.03.30-16.40.52:943][524]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_217, compiling. 
+[2020.03.30-16.40.52:955][524]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_217, compiling. 
+[2020.03.30-16.40.52:991][525]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_248, compiling. 
+[2020.03.30-16.40.53:003][525]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_248, compiling. 
+[2020.03.30-16.40.53:046][526]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_249, compiling. 
+[2020.03.30-16.40.53:098][527]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_250, compiling. 
+[2020.03.30-16.40.53:147][528]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_270, compiling. 
+[2020.03.30-16.40.53:196][529]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_271, compiling. 
+[2020.03.30-16.40.53:247][530]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_272, compiling. 
+[2020.03.30-16.40.53:301][531]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_273, compiling. 
+[2020.03.30-16.40.53:330][532]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_194, compiling. 
+[2020.03.30-16.40.53:342][532]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_194, compiling. 
+[2020.03.30-16.40.53:390][533]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_253, compiling. 
+[2020.03.30-16.40.53:425][534]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_251, compiling. 
+[2020.03.30-16.40.53:460][535]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_252, compiling. 
+[2020.03.30-16.40.53:481][536]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MI_plant_01, compiling. 
+[2020.03.30-16.40.53:493][536]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MI_plant_01, compiling. 
+[2020.03.30-16.40.53:505][536]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MI_plant_01, compiling. 
+[2020.03.30-16.40.53:527][537]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MI_Pandanus_plant_02_trunk, compiling. 
+[2020.03.30-16.40.53:540][537]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MI_Pandanus_plant_02_trunk, compiling. 
+[2020.03.30-16.40.53:553][537]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MI_Pandanus_plant_02_trunk, compiling. 
+[2020.03.30-16.40.53:574][538]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MI_Pandanus_plant_02_leaves, compiling. 
+[2020.03.30-16.40.53:587][538]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MI_Pandanus_plant_02_leaves, compiling. 
+[2020.03.30-16.40.53:599][538]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MI_Pandanus_plant_02_leaves, compiling. 
+[2020.03.30-16.41.11:258][540]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 209
+[2020.03.30-16.41.11:258][540]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 199
+[2020.03.30-16.41.11:258][540]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 189
+[2020.03.30-16.41.11:258][540]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 179
+[2020.03.30-16.41.11:258][540]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 169
+[2020.03.30-16.41.11:258][540]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 159
+[2020.03.30-16.41.11:258][540]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 149
+[2020.03.30-16.41.11:258][540]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 139
+[2020.03.30-16.41.11:258][540]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 129
+[2020.03.30-16.41.11:258][540]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 119
+[2020.03.30-16.41.11:258][540]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 109
+[2020.03.30-16.41.11:258][540]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 99
+[2020.03.30-16.41.11:258][540]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 89
+[2020.03.30-16.41.11:258][540]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 79
+[2020.03.30-16.41.11:258][540]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 69
+[2020.03.30-16.41.11:258][540]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 59
+[2020.03.30-16.41.11:258][540]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 49
+[2020.03.30-16.41.11:258][540]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 39
+[2020.03.30-16.41.11:258][540]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 29
+[2020.03.30-16.41.11:258][540]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 19
+[2020.03.30-16.41.11:258][540]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2020.03.30-16.41.11:258][540]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2020.03.30-16.41.11:258][540]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2020.03.30-16.41.11:258][540]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2020.03.30-16.41.11:258][540]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2020.03.30-16.41.16:071][677]LogUObjectHash: Compacting FUObjectHashTables data took   6.45ms
+[2020.03.30-16.43.01:074][378]Job is a success!
+[2020.03.30-16.43.02:034][379]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.019s
+[2020.03.30-16.43.02:034][379]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.03.30-16.43.02:034][379]LogVolumetricLightmapImport:      BrickData (all levels) 0.2Mb
+[2020.03.30-16.43.02:034][379]LogVolumetricLightmapImport:      Bricks at depth
+[2020.03.30-16.43.02:034][379]LogVolumetricLightmapImport:          0: 2.4% covering 100.0% of volume
+[2020.03.30-16.43.02:034][379]LogVolumetricLightmapImport:          1: 9.5% covering 6.3% of volume
+[2020.03.30-16.43.02:034][379]LogVolumetricLightmapImport:          2: 88.1% covering 0.9% of volume
+[2020.03.30-16.43.02:034][379]LogVolumetricLightmapImport:      Bricks in each level
+[2020.03.30-16.43.02:034][379]LogVolumetricLightmapImport:          ThirdPersonExampleMap 			 42 bricks 	 100.0% (Persistent Level)
+[2020.03.30-16.43.03:538][379]LightingResults: Warning: PointLight24 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.03.30-16.43.03:538][379]LightingResults: Warning: PointLight23 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.03.30-16.43.03:538][379]LightingResults: Warning: SpotLight3 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.03.30-16.43.03:539][379]LightingResults: Warning: SpotLight_1 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.03.30-16.43.03:539][379]LightingResults: Warning: PointLight32 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.03.30-16.43.03:539][379]LightingResults: Warning: PointLight28 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.03.30-16.43.03:539][379]LightingResults: Warning: PointLight27 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.03.30-16.43.03:539][379]LightingResults: Warning: PointLight26 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.03.30-16.43.03:539][379]LightingResults: Warning: PointLight30 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.03.30-16.43.03:540][379]LightingResults: Warning: PointLight31 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.03.30-16.43.03:540][379]LightingResults: Warning: PointLight21 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.03.30-16.43.03:540][379]LightingResults: Warning: PointLight18 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.03.30-16.43.03:540][379]LightingResults: Warning: PointLight19 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.03.30-16.43.03:540][379]LightingResults: Warning: PointLight34 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.03.30-16.43.03:540][379]LightingResults: Warning: PointLight22 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.03.30-16.43.03:541][379]LightingResults: Warning: PointLight16 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.03.30-16.43.03:541][379]LightingResults: Warning: PointLight33 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.03.30-16.43.03:541][379]LightingResults: Warning: PointLight12 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.03.30-16.43.03:541][379]LightingResults: Warning: PointLight11 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.03.30-16.43.03:541][379]LightingResults: Warning: PointLight10 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.03.30-16.43.03:541][379]LightingResults: Warning: PointLight35 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.03.30-16.43.03:541][379]LightingResults: Warning: PointLight36 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.03.30-16.43.03:541][379]LightingResults: Warning: PointLight9 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.03.30-16.43.03:541][379]LightingResults: Warning: PointLight8 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.03.30-16.43.03:541][379]LightingResults: Warning: PointLight37 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.03.30-16.43.03:541][379]LightingResults: Warning: PointLight7 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.03.30-16.43.03:541][379]LightingResults: Warning: PointLight14 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.03.30-16.43.03:541][379]LightingResults: Warning: PointLight4 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.03.30-16.43.03:541][379]LightingResults: Warning: PointLight13 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.03.30-16.43.03:541][379]LightingResults: Warning: PointLight3 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.03.30-16.43.03:541][379]LightingResults: Warning: PointLight5 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.03.30-16.43.15:464][379]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 4096X2048)
+[2020.03.30-16.43.15:464][379]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 4096X4096)
+[2020.03.30-16.43.15:464][379]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 4096X4096)
+[2020.03.30-16.43.15:464][379]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 64X32)
+[2020.03.30-16.43.15:464][379]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2020.03.30-16.43.15:464][379]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2020.03.30-16.43.15:663][379]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2020.03.30-16.43.16:699][379]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 2048X2048)
+[2020.03.30-16.43.16:699][379]Lightmass on DESKTOP-L8LC76K: 1:58 min total, 382 ms importing, 321 ms setup, 8.39 sec photons, 1:49 min processing, 0 ms extra exporting [842/842 mappings]. Threads: 7:19 min total, 4:34 min processing.
+[2020.03.30-16.43.16:699][379]LogStaticLightingSystem: ThirdPersonExampleMap_BuiltData storing lightmap data for 68 meshes in 2 LightmapResourceClusters (34.0 Meshes per cluster).
+[2020.03.30-16.43.16:710][379]LogMaterial: Display: Material /Game/Examen/Materials/M_Landscape.M_Landscape needed to have new flag set bUsedWithStaticLighting !
+[2020.03.30-16.43.16:719][379]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.03.30-16.43.16:760][379]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.03.30-16.43.16:788][379]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 24
+[2020.03.30-16.43.16:788][379]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2020.03.30-16.43.16:788][379]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.03.30-16.43.16:788][379]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.03.30-16.43.16:832][379]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.03.30-16.43.16:874][379]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.03.30-16.43.16:911][379]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.03.30-16.43.16:949][379]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.03.30-16.43.16:983][379]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.03.30-16.43.17:011][379]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.03.30-16.43.17:046][379]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.03.30-16.43.17:085][379]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.03.30-16.43.17:121][379]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.03.30-16.43.17:154][379]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.03.30-16.43.17:217][379]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.03.30-16.43.17:250][379]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.03.30-16.43.17:286][379]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.03.30-16.43.17:328][379]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.03.30-16.43.17:383][379]LogMaterial: Display: Material /Game/PN_Pandanus/Materials/PN_TropicalTreePlant.PN_TropicalTreePlant needed to have new flag set bUsedWithStaticLighting !
+[2020.03.30-16.43.17:419][379]LogMaterial: Display: Missing cached shader map for material PN_TropicalTreePlant, compiling. 
+[2020.03.30-16.43.17:577][379]LogMaterial: Display: Material /Game/PN_Pandanus/Materials/MA_Pandanus.MA_Pandanus needed to have new flag set bUsedWithStaticLighting !
+[2020.03.30-16.43.17:585][379]LogMaterial: Display: Missing cached shader map for material MA_Pandanus, compiling. 
+[2020.03.30-16.43.17:664][379]LogMaterial: Display: Missing cached shader map for material MA_Pandanus, compiling. 
+[2020.03.30-16.43.17:726][379]LogMaterial: Display: Missing cached shader map for material MA_Pandanus, compiling. 
+[2020.03.30-16.43.17:804][379]LogMaterial: Display: Missing cached shader map for material MA_Pandanus, compiling. 
+[2020.03.30-16.43.17:974][379]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2020.03.30-16.43.18:136][379]LogStaticLightingSystem: Illumination: 2:35 min (11.9 sec encoding lightmaps, 747 ms encoding shadowmaps)
+[2020.03.30-16.43.18:136][379]LogStaticLightingSystem: Lightmap texture memory:  42.7 MB (42.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2020.03.30-16.43.18:136][379]LogStaticLightingSystem: Shadowmap texture memory: 21.3 MB (21.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.03.30-16.43.21:653][379]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1221
+[2020.03.30-16.43.21:653][379]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1211
+[2020.03.30-16.43.21:653][379]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1201
+[2020.03.30-16.43.21:653][379]DumpUnbuiltLightIteractions
+[2020.03.30-16.43.21:653][379]Lights with unbuilt interactions: 0
+[2020.03.30-16.43.21:653][379]
+[2020.03.30-16.43.21:653][379]Primitives with unbuilt interactions: 0
+[2020.03.30-16.45.57:565][379]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1191
+[2020.03.30-16.45.57:565][379]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1181
+[2020.03.30-16.45.57:565][379]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1171
+[2020.03.30-16.45.57:565][379]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1161
+[2020.03.30-16.45.57:565][379]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1151
+[2020.03.30-16.45.57:565][379]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1141
+[2020.03.30-16.45.57:565][379]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1131
+[2020.03.30-16.45.57:565][379]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1121
+[2020.03.30-16.45.57:565][379]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1111
+[2020.03.30-16.45.57:565][379]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1101
+[2020.03.30-16.45.57:565][379]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1091
+[2020.03.30-16.45.57:565][379]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1081
+[2020.03.30-16.45.57:565][379]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1071
+[2020.03.30-16.45.57:565][379]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1061
+[2020.03.30-16.45.57:565][379]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1051
+[2020.03.30-16.45.57:565][379]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1041
+[2020.03.30-16.45.57:565][379]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1031
+[2020.03.30-16.45.57:565][379]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1021
+[2020.03.30-16.45.57:565][379]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1011
+[2020.03.30-16.45.57:565][379]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1001
+[2020.03.30-16.45.57:565][379]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 991
+[2020.03.30-16.45.57:565][379]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 981
+[2020.03.30-16.45.57:565][379]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 971
+[2020.03.30-16.45.57:565][379]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 961
+[2020.03.30-16.45.57:565][379]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 951
+[2020.03.30-16.45.57:565][379]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 941
+[2020.03.30-16.45.57:565][379]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 931
+[2020.03.30-16.45.57:565][379]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 921
+[2020.03.30-16.45.57:565][379]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 911
+[2020.03.30-16.45.57:565][379]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 901
+[2020.03.30-16.45.57:565][379]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 891
+[2020.03.30-16.45.57:565][379]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 881
+[2020.03.30-16.45.57:565][379]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 871
+[2020.03.30-16.45.57:565][379]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 861
+[2020.03.30-16.45.57:565][379]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 851
+[2020.03.30-16.45.57:565][379]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 841
+[2020.03.30-16.45.57:565][379]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 831
+[2020.03.30-16.45.57:565][379]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 821
+[2020.03.30-16.45.57:565][379]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 811
+[2020.03.30-16.45.57:565][379]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 801
+[2020.03.30-16.45.57:566][379]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 791
+[2020.03.30-16.45.57:566][379]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 781
+[2020.03.30-16.45.57:566][379]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 771
+[2020.03.30-16.45.57:566][379]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 761
+[2020.03.30-16.45.57:566][379]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 751
+[2020.03.30-16.45.57:566][379]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 741
+[2020.03.30-16.45.57:566][379]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 731
+[2020.03.30-16.45.57:566][379]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 721
+[2020.03.30-16.45.57:566][379]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 711
+[2020.03.30-16.45.57:566][379]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 701
+[2020.03.30-16.45.57:566][379]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 691
+[2020.03.30-16.45.57:566][379]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 681
+[2020.03.30-16.45.57:566][379]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 671
+[2020.03.30-16.45.57:566][379]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 661
+[2020.03.30-16.45.57:566][379]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 651
+[2020.03.30-16.45.57:566][379]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 641
+[2020.03.30-16.45.57:566][379]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 631
+[2020.03.30-16.45.57:566][379]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 621
+[2020.03.30-16.45.57:573][379]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 611
+[2020.03.30-16.45.57:573][379]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 601
+[2020.03.30-16.45.57:573][379]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 591
+[2020.03.30-16.45.57:573][379]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 581
+[2020.03.30-16.45.57:573][379]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 571
+[2020.03.30-16.45.57:573][379]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 561
+[2020.03.30-16.45.57:573][379]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 551
+[2020.03.30-16.45.57:573][379]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 541
+[2020.03.30-16.45.57:574][379]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 531
+[2020.03.30-16.45.57:574][379]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 521
+[2020.03.30-16.45.57:574][379]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 511
+[2020.03.30-16.45.57:574][379]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 501
+[2020.03.30-16.45.57:574][379]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 491
+[2020.03.30-16.45.57:574][379]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 481
+[2020.03.30-16.45.57:574][379]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 471
+[2020.03.30-16.45.57:574][379]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 461
+[2020.03.30-16.45.57:574][379]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 451
+[2020.03.30-16.45.57:574][379]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 441
+[2020.03.30-16.45.57:574][379]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 431
+[2020.03.30-16.45.57:574][379]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 421
+[2020.03.30-16.45.57:574][379]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 411
+[2020.03.30-16.45.57:574][379]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 401
+[2020.03.30-16.45.57:574][379]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 391
+[2020.03.30-16.45.57:574][379]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 381
+[2020.03.30-16.45.57:574][379]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 371
+[2020.03.30-16.45.57:574][379]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 361
+[2020.03.30-16.45.57:574][379]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 351
+[2020.03.30-16.45.57:574][379]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 341
+[2020.03.30-16.45.57:574][379]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 331
+[2020.03.30-16.45.57:574][379]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 321
+[2020.03.30-16.45.57:574][379]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 311
+[2020.03.30-16.45.57:574][379]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 301
+[2020.03.30-16.45.57:574][379]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 291
+[2020.03.30-16.45.57:574][379]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 281
+[2020.03.30-16.45.57:574][379]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 271
+[2020.03.30-16.45.57:574][379]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 261
+[2020.03.30-16.45.57:574][379]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 251
+[2020.03.30-16.45.57:574][379]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 241
+[2020.03.30-16.45.57:574][379]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 231
+[2020.03.30-16.45.57:574][379]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 221
+[2020.03.30-16.45.57:574][379]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 211
+[2020.03.30-16.45.57:574][379]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 201
+[2020.03.30-16.45.57:574][379]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 191
+[2020.03.30-16.45.57:574][379]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 181
+[2020.03.30-16.45.57:574][379]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 171
+[2020.03.30-16.45.57:574][379]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 161
+[2020.03.30-16.45.57:574][379]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 151
+[2020.03.30-16.45.57:574][379]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 141
+[2020.03.30-16.45.57:574][379]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 131
+[2020.03.30-16.45.57:574][379]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 121
+[2020.03.30-16.45.57:574][379]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 111
+[2020.03.30-16.45.57:574][379]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 101
+[2020.03.30-16.45.57:574][379]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 91
+[2020.03.30-16.45.57:574][379]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 81
+[2020.03.30-16.45.57:574][379]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 71
+[2020.03.30-16.45.57:574][379]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 61
+[2020.03.30-16.45.57:574][379]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 51
+[2020.03.30-16.45.57:574][379]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 41
+[2020.03.30-16.45.57:574][379]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 31
+[2020.03.30-16.45.57:574][379]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2020.03.30-16.45.57:574][379]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2020.03.30-16.45.57:574][379]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2020.03.30-16.45.57:574][379]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2020.03.30-16.45.57:574][379]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2020.03.30-16.45.57:574][379]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2020.03.30-16.45.57:682][380]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.03.30-16.45.57:682][380]MapCheck: New page: ThirdPersonExampleMap - 30 mar. 2020 20:45:57
+[2020.03.30-16.45.57:683][380]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,447ms to complete.
+[2020.03.30-16.46.02:656][591]LogSlate: Window 'Message Log' being destroyed
+[2020.03.30-16.46.02:670][591]LogSlate: Window 'Message Log' being destroyed
+[2020.03.30-16.46.11:599][380]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2020.03.30-16.46.12:453][380]LogSlate: Window 'Save Content' being destroyed
+[2020.03.30-16.46.12:471][380]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Examen/Materials/M_Landscape" FILE="C:/Users/manel/Documents/GitHub/ExamMotors/ExamenMotors/Content/Examen/Materials/M_Landscape.uasset" SILENT=true
+[2020.03.30-16.46.12:488][380]LogSavePackage: Moving 'C:/Users/manel/Documents/GitHub/ExamMotors/ExamenMotors/Saved/M_Landscape3CF741EB426684110B1F5B8E81A8BE0C.tmp' to 'C:/Users/manel/Documents/GitHub/ExamMotors/ExamenMotors/Content/Examen/Materials/M_Landscape.uasset'
+[2020.03.30-16.46.12:503][380]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PN_Pandanus/Materials/MA_Pandanus" FILE="C:/Users/manel/Documents/GitHub/ExamMotors/ExamenMotors/Content/PN_Pandanus/Materials/MA_Pandanus.uasset" SILENT=true
+[2020.03.30-16.46.12:542][380]LogSavePackage: Moving 'C:/Users/manel/Documents/GitHub/ExamMotors/ExamenMotors/Saved/MA_Pandanus60FE2E734EB402B1F8218C8DA0E9FA71.tmp' to 'C:/Users/manel/Documents/GitHub/ExamMotors/ExamenMotors/Content/PN_Pandanus/Materials/MA_Pandanus.uasset'
+[2020.03.30-16.46.12:577][380]LogSavePackage: Moving 'C:/Users/manel/Documents/GitHub/ExamMotors/ExamenMotors/Saved/MI_Pandanus_plant_02_trunk5C1946454C0E620659B8BBA21A28ADDE.tmp' to 'C:/Users/manel/Documents/GitHub/ExamMotors/ExamenMotors/Content/PN_Pandanus/Materials/Material_Instances/pandanus/big/MI_Pandanus_plant_02_trunk.uasset'
+[2020.03.30-16.46.12:613][380]LogSavePackage: Moving 'C:/Users/manel/Documents/GitHub/ExamMotors/ExamenMotors/Saved/MI_plant_016B85977248764C117F22D0812C1D5530.tmp' to 'C:/Users/manel/Documents/GitHub/ExamMotors/ExamenMotors/Content/PN_Pandanus/Materials/Material_Instances/treeplant/MI_plant_01.uasset'
+[2020.03.30-16.46.12:657][380]LogSavePackage: Moving 'C:/Users/manel/Documents/GitHub/ExamMotors/ExamenMotors/Saved/PN_TropicalTreePlant0DDA986C4B8B88D52315289258AAB62D.tmp' to 'C:/Users/manel/Documents/GitHub/ExamMotors/ExamenMotors/Content/PN_Pandanus/Materials/PN_TropicalTreePlant.uasset'
+[2020.03.30-16.46.12:710][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2020.03.30-16.46.13:123][380]LogSavePackage: Moving 'C:/Users/manel/Documents/GitHub/ExamMotors/ExamenMotors/Saved/ThirdPersonExampleMapD51B04184D96C98631FDA798256E016D.tmp' to 'C:/Users/manel/Documents/GitHub/ExamMotors/ExamenMotors/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.03.30-16.46.13:142][380]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.483
+[2020.03.30-16.46.14:460][380]LogSavePackage: Moving 'C:/Users/manel/Documents/GitHub/ExamMotors/ExamenMotors/Saved/ThirdPersonExampleMap_BuiltDataC72C76324E8A84C0D9783AAE2FD6AE3C.tmp' to 'C:/Users/manel/Documents/GitHub/ExamMotors/ExamenMotors/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.03.30-16.46.14:522][380]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.30-16.46.14:522][380]LogContentValidation: Display: Validating Material /Game/Examen/Materials/M_Landscape.M_Landscape
+[2020.03.30-16.46.14:522][380]LogContentValidation: Display: Validating Material /Game/PN_Pandanus/Materials/MA_Pandanus.MA_Pandanus
+[2020.03.30-16.46.14:522][380]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/PN_Pandanus/Materials/Material_Instances/pandanus/big/MI_Pandanus_plant_02_trunk.MI_Pandanus_plant_02_trunk
+[2020.03.30-16.46.14:522][380]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/PN_Pandanus/Materials/Material_Instances/treeplant/MI_plant_01.MI_plant_01
+[2020.03.30-16.46.14:522][380]LogContentValidation: Display: Validating Material /Game/PN_Pandanus/Materials/PN_TropicalTreePlant.PN_TropicalTreePlant
+[2020.03.30-16.46.14:523][380]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.03.30-16.46.14:523][380]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
